@@ -1,4 +1,4 @@
-##Hola, un placer👋  
+## Hola, un placer👋  
 📊Soy Pedro Quintana
 
 Un Analista de Datos con gran capacidad de liderazgo y trabajo en equipo, enfocado en consolidar proyectos de Data Analytics con eficiencia y entusiasmo. Mi experiencia en el Ejército Argentino me ha brindado habilidades clave en toma de decisiones estratégicas, análisis crítico y gestión de equipos de alto rendimiento. Ahora, aplico estas fortalezas en el mundo IT para impulsar soluciones basadas en datos que generen impacto.
