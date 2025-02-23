@@ -3,7 +3,7 @@
 
 Un Analista de Datos con gran capacidad de liderazgo y trabajo en equipo, enfocado en consolidar proyectos de Data Analytics con eficiencia y entusiasmo. Mi experiencia en el Ejército Argentino me ha brindado habilidades clave en toma de decisiones estratégicas, análisis crítico y gestión de equipos de alto rendimiento. Ahora, aplico estas fortalezas en el mundo IT para impulsar soluciones basadas en datos que generen impacto.
 
-🚀 Habilidades Técnicas
+## 🚀 Habilidades Técnicas
 
 Lenguajes y Herramientas: Python, SQL, Power BI, Google Sheets
 
@@ -15,7 +15,7 @@ Análisis Avanzado: Cálculo de métricas clave con DAX y SQL, optimización de 
 
 Automatización: Creación de reportes dinámicos y automatización de procesos con Python
 
-📌 Proyectos Destacados
+## 📌 Proyectos Destacados
 
 1️⃣ Descifrando la Operación Empresarial
 
@@ -33,13 +33,13 @@ Tecnologías: Power BI, DAX, Modelado RelacionalDesarrollo de un dashboard inter
 
 Tecnologías: Python, Pandas, Análisis Exploratorio de DatosEstudio para la expansión de laboratorios farmacéuticos en Latinoamérica, basado en la incidencia de COVID-19 y tasas de vacunación. Se desarrollaron modelos de análisis exploratorio y dashboards interactivos para optimizar la toma de decisiones.
 
-🎖️ Experiencia Laboral
+## 🎖️ Experiencia Laboral
 
 Con más de 9 años en el Ejército Argentino como Suboficial de Infantería, desarrollé habilidades en liderazgo, planificación estratégica y análisis de información. Mi formación en Didáctica Especial Militar me permitió instruir equipos de alto rendimiento en entornos exigentes.
 
 Adicionalmente, gestioné tareas administrativas y evaluaciones de desempeño durante cinco años, obteniendo resultados sobresalientes. Estas experiencias fortalecieron mi capacidad para la resolución de problemas y el manejo eficiente de datos en escenarios de alta presión.
 
-📚 Certificaciones y Educación
+## 📚 Certificaciones y Educación
 
 Analista de Datos - HenryFormación en SQL Server, Power BI, Python y Google Sheets
 
@@ -51,16 +51,16 @@ Instituto de Capacitacion Bursatil
 
  Análisis Fundamental y planificación financiera (Matemática Financiera, decisiones de Inversión, análisis de Estados Contables, valuación de Empresas y Múltiplos, DCM y DDM, planificación Fiscal)
 
- Practicas de Mercado📩 
+ Practicas de Mercado
 
-Contacto y Redes
+## 📩 Contacto y Redes
 
 LinkedIn: www.linkedin.com/in/pedro101
 
 Correo: datanalitics26@gmail.com
 
-🎯 Enfoque y Objetivo
+## 🎯 Enfoque y Objetivo
 
 Estoy abierto a oportunidades en el sector IT, incluyendo roles full-time, freelance o proyectos específicos. Me interesa especialmente el sector financiero y bolsa de valores, aunque estoy dispuesto a trabajar en diversas industrias donde el análisis de datos pueda generar impacto.
 
-📈 ¡Listo para aportar soluciones innovadoras a tu equipo!
+## 📈 ¡Listo para aportar soluciones innovadoras a tu equipo!
